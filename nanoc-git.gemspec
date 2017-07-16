@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.description = 'Provides a Git deployer for Nanoc. Obsolete; merged into Nanoc 4.5.'
 
   s.author  = 'Denis Defreyne'
-  s.email   = 'denis@stoneship.orgorg'
+  s.email   = 'denis@stoneship.org'
   s.license = 'MIT'
 
   s.files = Dir['[A-Z]*'] + ['nanoc-git.gemspec']
